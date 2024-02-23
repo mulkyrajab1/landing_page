@@ -8,9 +8,9 @@
   "author": "mulkyrajab1",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mulkyrajab1/landing_page.git"
