@@ -1,5 +1,5 @@
 {
-  "name": "yes",
+  "name": "landing_page",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,6 @@
     "url": "https://github.com/mulkyrajab1/landing_page/issues"
   },
   "homepage": "https://github.com/mulkyrajab1/landing_page#readme",
+  "devDependencies": {},
   "description": ""
 }
